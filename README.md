@@ -1,4 +1,4 @@
-# Source code for Svelte Tutorials at MDN Web docs
+# This project takes the MDN Svelte tutorial as a baseplate and has Tailwind included
 
 Source code of the To-Do list app for the Svelte tutorials at [Understanding client-side JavaScript frameworks](Understanding client-side JavaScript frameworks) series at MDN Web docs.
 
